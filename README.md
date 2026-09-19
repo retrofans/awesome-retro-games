@@ -32,7 +32,7 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](daily/).
 
 <!-- daily:start -->
-- A fresh pick every day.
+- 2026-09-19 - [James Pond 3 (MD, 1993)](https://emuall.com/games/james-pond-3-Ltq5nyAAqnSKKNkUh8yYch)
 <!-- daily:end -->
 
 ## Browse by Platform
