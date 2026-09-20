@@ -32,6 +32,7 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](https://github.com/retrofans/awesome-retro-games/tree/main/daily).
 
 <!-- daily:start -->
+- 2026-09-20 - [Metal Gear Solid: Portable Ops (PSP, 2006)](https://emuall.com/games/metal-gear-solid-portable-ops-C5dX2eJJ7sm4Tx3TkWN3w2)
 - 2026-09-19 - [James Pond 3 (MD, 1993)](https://emuall.com/games/james-pond-3-Ltq5nyAAqnSKKNkUh8yYch)
 <!-- daily:end -->
 
