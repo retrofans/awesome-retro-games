@@ -32,6 +32,7 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](https://github.com/retrofans/awesome-retro-games/tree/main/daily).
 
 <!-- daily:start -->
+- 2026-09-23 - [Powerpuff Girls, The: Paint the Townsville Green (GBC, 2000)](https://emuall.com/games/powerpuff-girls-the-paint-the-townsville-green-RSzZKXHEwZdCu8FpEoac6Q)
 - 2026-09-22 - [My Japanese Coach - Learn a New Language (DS, 2007)](https://emuall.com/games/my-japanese-coach-learn-a-new-language-GPemRgzHMp5NjtgxPdMRQL)
 - 2026-09-21 - [Bomberman Max 2 - Blue Advance (GBA, 2002)](https://emuall.com/games/bomberman-max-2-blue-advance-HpDTceEZfxyzndeD7va2M2)
 - 2026-09-20 - [Metal Gear Solid: Portable Ops (PSP, 2006)](https://emuall.com/games/metal-gear-solid-portable-ops-C5dX2eJJ7sm4Tx3TkWN3w2)
