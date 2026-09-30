@@ -32,13 +32,13 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](https://github.com/retrofans/awesome-retro-games/tree/main/daily).
 
 <!-- daily:start -->
+- 2026-09-30 - [Puzzle Series - Jigsaw Puzzle - Koneko Mekuri Hen (DS, 2006)](https://emuall.com/games/puzzle-series-jigsaw-puzzle-koneko-mekuri-hen-2J8rqMhRyNp6peL5SmpMp5)
 - 2026-09-29 - [Irozuki Tingle no Koi no Balloon Trip (DS, 2009)](https://emuall.com/games/irozuki-tingle-no-koi-no-balloon-trip-mrGP3u5Jc3itk8WJMLFWgV)
 - 2026-09-28 - [Shugo Chara! - Nori Nori! CharanaRhythm (DS, 2009)](https://emuall.com/games/shugo-chara-nori-nori-charanarhythm-XMH6nV76r5FAESuCADPYWa)
 - 2026-09-27 - [Super Fire Pro Wrestling (SNES, 1994)](https://emuall.com/games/super-fire-pro-wrestling-Y6Tsx8oVYGbnxxk5322ndk)
 - 2026-09-26 - [Las Vegas Dream in Golden Paradise (SNES, 1993)](https://emuall.com/games/las-vegas-dream-in-golden-paradise-LxVNsQSMbpVDXjqY32UAa9)
 - 2026-09-25 - [Instant Feeling Dragon Ball (DS, 2006)](https://emuall.com/games/instant-feeling-dragon-ball-HjpQvaqnD8EhDcYtCw9LaQ)
 - 2026-09-24 - [2 Games in 1 - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage (GBA, 2004)](https://emuall.com/games/2-games-in-1-spyro-orange-the-cortex-conspiracy-crash-dKkVRGb2CgReXbEKwo3rby)
-- 2026-09-23 - [Powerpuff Girls, The: Paint the Townsville Green (GBC, 2000)](https://emuall.com/games/powerpuff-girls-the-paint-the-townsville-green-RSzZKXHEwZdCu8FpEoac6Q)
 <!-- daily:end -->
 
 ## Browse by Platform
