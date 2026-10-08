@@ -32,13 +32,13 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](https://github.com/retrofans/awesome-retro-games/tree/main/daily).
 
 <!-- daily:start -->
+- 2026-10-08 - [Skitchin' (MD, 1994)](https://emuall.com/games/skitchin-WdzGYLjBKCrdF4uJSbJNRM)
 - 2026-10-07 - [Cartoon Network Racing (DS, 2006)](https://emuall.com/games/cartoon-network-racing-Q9reLPLJmWZjgPWe6LY2Lq)
 - 2026-10-06 - [Radiant Blocks (GB, 1992)](https://emuall.com/games/radiant-blocks-QVFqTcMqxVWT8H3viddvA5)
 - 2026-10-05 - [Canon - The Legend of the New Gods (MD, 1996)](https://emuall.com/games/canon-the-legend-of-the-new-gods-JpzHbka7ipJroVJF6wF7av)
 - 2026-10-04 - [Future Card Buddyfight - Tanjou! Ore-tachi no Saikyou Buddy! (3DS, 2018)](https://emuall.com/games/future-card-buddyfight-tanjou-ore-tachi-no-saikyou-buddy-UE6am8qWzCcCunjoQ5Ghzm)
 - 2026-10-03 - [Ecco the Dolphin (GAME GEAR, 1993)](https://emuall.com/games/ecco-the-dolphin-5DXu2SejWtyHnj5sxNezFs)
 - 2026-10-02 - [Popeye - Ijiwaru Majo Sea Hag no Maki (SNES, 1994)](https://emuall.com/games/popeye-ijiwaru-majo-sea-hag-no-maki-8j8hbwfXSgodsmY7yns5ij)
-- 2026-10-01 - [Shin Lucky Star Moe Drill - Tabidachi (DS, 2008)](https://emuall.com/games/shin-lucky-star-moe-drill-tabidachi-74X8L2tHLEQFwaQo4SanP6)
 <!-- daily:end -->
 
 ## Browse by Platform
