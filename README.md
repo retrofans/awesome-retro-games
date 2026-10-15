@@ -32,13 +32,13 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](https://github.com/retrofans/awesome-retro-games/tree/main/daily).
 
 <!-- daily:start -->
+- 2026-10-15 - [John Madden Football - Championship Edition (MD, 1992)](https://emuall.com/games/john-madden-football-championship-edition-kkDMckps4kYN34khaCix6o)
 - 2026-10-14 - [River City: Rival Showdown (SNES, 1994)](https://emuall.com/games/river-city-rival-showdown-iwDNkMxkrAE6yHyHsdoMwN)
 - 2026-10-13 - [Phantasy Star II - Yushis's Adventure (MD, 1991)](https://emuall.com/games/phantasy-star-ii-yushis-s-adventure-gXYAaqrz2ggKLzTQSPvVTj)
 - 2026-10-12 - [Hyper Olympic Series - Track & Field GB (GBC, 1999)](https://emuall.com/games/hyper-olympic-series-track-field-gb-4rK8aizRPM7HFprKe9FvcD)
 - 2026-10-11 - [Lethal Thunder (World) (ARCADE, 1991)](https://emuall.com/games/lethal-thunder-world-bYBezHeeaJyFazKbevVnNR)
 - 2026-10-10 - [Cradle of Rome (DS, 2008)](https://emuall.com/games/cradle-of-rome-Ud7KUpFQdmTCziyrDhXms5)
 - 2026-10-09 - [Panpaka Panya-san (DS, 2008)](https://emuall.com/games/panpaka-panya-san-nE5cZXA5kJj7wn4dxTUYBX)
-- 2026-10-08 - [Skitchin' (MD, 1994)](https://emuall.com/games/skitchin-WdzGYLjBKCrdF4uJSbJNRM)
 <!-- daily:end -->
 
 ## Browse by Platform
