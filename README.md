@@ -32,13 +32,13 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](https://github.com/retrofans/awesome-retro-games/tree/main/daily).
 
 <!-- daily:start -->
+- 2026-10-24 - [Ochaken no Heya DS 4 (DS, 2009)](https://emuall.com/games/ochaken-no-heya-ds-4-nZYzcTwZxGZundvzVQ2ior)
 - 2026-10-23 - [Eindeloos Mahjong 2 - Een Reis om de Wereld (DS, 2008)](https://emuall.com/games/eindeloos-mahjong-2-een-reis-om-de-wereld-dEvuwchKEbibB86aBZbLkL)
 - 2026-10-22 - [Bleach Advance (GBA, 2007)](https://emuall.com/games/bleach-advance-SRH5TJdwaD5rsDfghodwW5)
 - 2026-10-21 - [SD Gundam G Century Advance (GBA, 2002)](https://emuall.com/games/sd-gundam-g-century-advance-a4NMfWz5MaXzsQ4wUsse6P)
 - 2026-10-20 - [Twin Series 6 - Wannyan Idol Gakuen + Koinu to Issho (GBA, 2004)](https://emuall.com/games/twin-series-6-wannyan-idol-gakuen-koinu-to-issho-P4av4u7nH7bgPRRXesFzww)
 - 2026-10-19 - [Star of the Galaxy - Lunar Legend (GBA, 2002)](https://emuall.com/games/star-of-the-galaxy-lunar-legend-bCt8UfBb4mwVm6RsXocTvi)
 - 2026-10-18 - [Pachi-Slot Land - Pachipachi Coin no Densetsu (SNES, 1994)](https://emuall.com/games/pachi-slot-land-pachipachi-coin-no-densetsu-LkfxcsVp66xfMQWn8pfoid)
-- 2026-10-17 - [Break 'em All (DS, 2008)](https://emuall.com/games/break-em-all-brpugGZm8cN4oiLKd3FFic)
 <!-- daily:end -->
 
 ## Browse by Platform
