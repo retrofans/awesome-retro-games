@@ -32,13 +32,13 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](https://github.com/retrofans/awesome-retro-games/tree/main/daily).
 
 <!-- daily:start -->
+- 2026-10-29 - [Goofy's Hysterical History Tour (MD, 1993)](https://emuall.com/games/goofy-s-hysterical-history-tour-iRAcDmAfKxu8mGUoQkaB86)
 - 2026-10-28 - [Mini Yonku GB Let's & Go!! (GB, 1997)](https://emuall.com/games/mini-yonku-gb-let-s-go-dGx7aC3B268tzZsQ76WA45)
 - 2026-10-27 - [Bugs Bunny in - Crazy Castle 4 (GBC, 2000)](https://emuall.com/games/bugs-bunny-in-crazy-castle-4-bP5S6HBgDx46yAv5ygBzoe)
 - 2026-10-26 - [Quest Trio, The (DS, 2008)](https://emuall.com/games/quest-trio-the-RmiyGVJLDhTaLhEBBDMtvX)
 - 2026-10-25 - [Banjo-Kazooie: Granny Granny's Garden (GBA, 2003)](https://emuall.com/games/banjo-kazooie-granny-granny-s-garden-Q6XtudexpMG6eRaaEfs4rj)
 - 2026-10-24 - [Ochaken no Heya DS 4 (DS, 2009)](https://emuall.com/games/ochaken-no-heya-ds-4-nZYzcTwZxGZundvzVQ2ior)
 - 2026-10-23 - [Eindeloos Mahjong 2 - Een Reis om de Wereld (DS, 2008)](https://emuall.com/games/eindeloos-mahjong-2-een-reis-om-de-wereld-dEvuwchKEbibB86aBZbLkL)
-- 2026-10-22 - [Bleach Advance (GBA, 2007)](https://emuall.com/games/bleach-advance-SRH5TJdwaD5rsDfghodwW5)
 <!-- daily:end -->
 
 ## Browse by Platform
