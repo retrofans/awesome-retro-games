@@ -32,13 +32,13 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](https://github.com/retrofans/awesome-retro-games/tree/main/daily).
 
 <!-- daily:start -->
+- 2026-11-04 - [Mind Quiz - Your Brain Coach (DS, 2006)](https://emuall.com/games/mind-quiz-your-brain-coach-RMr6kxaP5YxmiV7QYKGWdp)
 - 2026-11-03 - [Barker Bill's Trick Shooting (NES, 1990)](https://emuall.com/games/barker-bill-s-trick-shooting-mLCpxp8vnnWs2Pua4SYKkC)
 - 2026-11-02 - [Bakumatsu Renka Shinsengumi DS (DS, 2008)](https://emuall.com/games/bakumatsu-renka-shinsengumi-ds-nFCzbfcrXkGcoKYTfDSEdm)
 - 2026-11-01 - [Jungle Book, The (Mar 1994) (GAME GEAR, 1994)](https://emuall.com/games/jungle-book-the-mar-1994-iXJRiSR8hbeUt8QMvyYEBy)
 - 2026-10-31 - [维德-汉克斯的反击 Wade Hixton's Counter Punch (GBA, 2004)](https://emuall.com/games/wade-hixton-s-counter-punch-6a9qXePeucMYWHvqribUM5)
 - 2026-10-30 - [Magical Taruruuto-kun (GB, 1991)](https://emuall.com/games/magical-taruruuto-kun-exeAQdDXdEqRGCqsqe5tHW)
 - 2026-10-29 - [Goofy's Hysterical History Tour (MD, 1993)](https://emuall.com/games/goofy-s-hysterical-history-tour-iRAcDmAfKxu8mGUoQkaB86)
-- 2026-10-28 - [Mini Yonku GB Let's & Go!! (GB, 1997)](https://emuall.com/games/mini-yonku-gb-let-s-go-dGx7aC3B268tzZsQ76WA45)
 <!-- daily:end -->
 
 ## Browse by Platform
