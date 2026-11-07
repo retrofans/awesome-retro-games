@@ -32,13 +32,13 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](https://github.com/retrofans/awesome-retro-games/tree/main/daily).
 
 <!-- daily:start -->
+- 2026-11-07 - [Maxi 15 (NES, 1992)](https://emuall.com/games/maxi-15-DAeSQuxYda8XLUtYWSdnbD)
 - 2026-11-06 - [Three Lions (GBC, 1999)](https://emuall.com/games/three-lions-JKozsHw6AmCCtv97zbx6qp)
 - 2026-11-05 - [Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (GBC, 2001)](https://emuall.com/games/loppi-puzzle-magazine-hirameku-puzzle-dai-2-gou-HVh8cCnwXAwyyKAhkdMQg6)
 - 2026-11-04 - [Mind Quiz - Your Brain Coach (DS, 2006)](https://emuall.com/games/mind-quiz-your-brain-coach-RMr6kxaP5YxmiV7QYKGWdp)
 - 2026-11-03 - [Barker Bill's Trick Shooting (NES, 1990)](https://emuall.com/games/barker-bill-s-trick-shooting-mLCpxp8vnnWs2Pua4SYKkC)
 - 2026-11-02 - [Bakumatsu Renka Shinsengumi DS (DS, 2008)](https://emuall.com/games/bakumatsu-renka-shinsengumi-ds-nFCzbfcrXkGcoKYTfDSEdm)
 - 2026-11-01 - [Jungle Book, The (Mar 1994) (GAME GEAR, 1994)](https://emuall.com/games/jungle-book-the-mar-1994-iXJRiSR8hbeUt8QMvyYEBy)
-- 2026-10-31 - [维德-汉克斯的反击 Wade Hixton's Counter Punch (GBA, 2004)](https://emuall.com/games/wade-hixton-s-counter-punch-6a9qXePeucMYWHvqribUM5)
 <!-- daily:end -->
 
 ## Browse by Platform
