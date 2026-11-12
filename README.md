@@ -32,13 +32,13 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](https://github.com/retrofans/awesome-retro-games/tree/main/daily).
 
 <!-- daily:start -->
+- 2026-11-12 - [Grander Musashi RV (GB, 1992)](https://emuall.com/games/grander-musashi-rv-PA96jqaLec2pNpUvw9P96c)
 - 2026-11-11 - [Snoopy's Silly Sports Spectacular! (NES, 1988)](https://emuall.com/games/snoopy-s-silly-sports-spectacular-FhSVsmP8zJivdeaKdHmTou)
 - 2026-11-10 - [Zool (SNES, 1994)](https://emuall.com/games/zool-ZWeAeMYDu8kbt3CEPq5M6U)
 - 2026-11-09 - [Tekken 5 (ARCADE, 2004)](https://emuall.com/games/tekken-5-dH4yk5mh7UeYfxCvAnKCYw)
 - 2026-11-08 - [Dragon Warrior IV (NES, 1990)](https://emuall.com/games/dragon-warrior-iv-d6hnQTB6Rffh8uQ8ghxcJW)
 - 2026-11-07 - [Maxi 15 (NES, 1992)](https://emuall.com/games/maxi-15-DAeSQuxYda8XLUtYWSdnbD)
 - 2026-11-06 - [Three Lions (GBC, 1999)](https://emuall.com/games/three-lions-JKozsHw6AmCCtv97zbx6qp)
-- 2026-11-05 - [Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (GBC, 2001)](https://emuall.com/games/loppi-puzzle-magazine-hirameku-puzzle-dai-2-gou-HVh8cCnwXAwyyKAhkdMQg6)
 <!-- daily:end -->
 
 ## Browse by Platform
