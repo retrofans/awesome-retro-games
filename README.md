@@ -32,13 +32,13 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](https://github.com/retrofans/awesome-retro-games/tree/main/daily).
 
 <!-- daily:start -->
+- 2026-11-21 - [Famista 3 (GB, 1993)](https://emuall.com/games/famista-3-2XKRw8zpw2ZZkME8pjY9f7)
 - 2026-11-20 - [Puyo Puyo 4 - Magic Party (N64, 1999)](https://emuall.com/games/puyo-puyo-4-magic-party-7NBYky6ZueTaPJhyFBV2gQ)
 - 2026-11-19 - [Lethal Weapon (SNES, 1992)](https://emuall.com/games/lethal-weapon-JzpM5cpHcMZbSxrqLPgQGc)
 - 2026-11-18 - [Battle Dodge Ball II (SNES, 1993)](https://emuall.com/games/battle-dodge-ball-ii-EQ3mbuxmBsPrJwHnna5Tue)
 - 2026-11-17 - [Densetsu no Kishi - Elrond (NES, 1987)](https://emuall.com/games/densetsu-no-kishi-elrond-NZMZwAkraKcRJLhw7qVYNt)
 - 2026-11-16 - [Real Football 2009 (DS, 2008)](https://emuall.com/games/real-football-2009-LYvLAE52ZsAvXcx3tpgUfe)
 - 2026-11-15 - [Super Gals! Kotobuki Ran (GBC, 2001)](https://emuall.com/games/super-gals-kotobuki-ran-DPY94s4aEPr5QKntGsskdi)
-- 2026-11-14 - [Puzzle Series Vol. 6 - Illust Logic (DS, 2006)](https://emuall.com/games/puzzle-series-vol-6-illust-logic-dezk5e8JWMAFNuuVeVAnoM)
 <!-- daily:end -->
 
 ## Browse by Platform
