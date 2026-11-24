@@ -32,13 +32,13 @@ Retro gaming covers everything from 8-bit consoles to early 3D systems. This lis
 A new classic game is featured here every day. [Browse the full archive](https://github.com/retrofans/awesome-retro-games/tree/main/daily).
 
 <!-- daily:start -->
+- 2026-11-24 - [Stranger of Sword City (PSV, 2016)](https://emuall.com/games/stranger-of-sword-city-CJeX9xZEdjCMSQEFEKA2d8)
 - 2026-11-23 - [Minna no Soft Series - Minna no Shogi (GBA, 2004)](https://emuall.com/games/minna-no-soft-series-minna-no-shogi-R2iMK3nVWU95JY2icsCHQH)
 - 2026-11-22 - [Contra Spirits (GB, 1994)](https://emuall.com/games/contra-spirits-LjKDW7GHuMTmRfjY9L2ATd)
 - 2026-11-21 - [Famista 3 (GB, 1993)](https://emuall.com/games/famista-3-2XKRw8zpw2ZZkME8pjY9f7)
 - 2026-11-20 - [Puyo Puyo 4 - Magic Party (N64, 1999)](https://emuall.com/games/puyo-puyo-4-magic-party-7NBYky6ZueTaPJhyFBV2gQ)
 - 2026-11-19 - [Lethal Weapon (SNES, 1992)](https://emuall.com/games/lethal-weapon-JzpM5cpHcMZbSxrqLPgQGc)
 - 2026-11-18 - [Battle Dodge Ball II (SNES, 1993)](https://emuall.com/games/battle-dodge-ball-ii-EQ3mbuxmBsPrJwHnna5Tue)
-- 2026-11-17 - [Densetsu no Kishi - Elrond (NES, 1987)](https://emuall.com/games/densetsu-no-kishi-elrond-NZMZwAkraKcRJLhw7qVYNt)
 <!-- daily:end -->
 
 ## Browse by Platform
